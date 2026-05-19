@@ -1,3 +1,8 @@
+
 #Guacamole 
 ##Ingredients
-##Instructi
+*avocado
+*lemon0
+*salt
+##Instructions
+
